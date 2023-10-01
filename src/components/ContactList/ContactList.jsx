@@ -20,3 +20,4 @@ ContactList.propTypes = {
   filteredContacts: PropTypes.arrayOf(PropTypes.object.isRequired).isRequired,
   onDeleteContact: PropTypes.func.isRequired,
 };
+
